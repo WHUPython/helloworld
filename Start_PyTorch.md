@@ -54,5 +54,7 @@ Of course, SGD is not the only optimizer torch supports, for more refer the offi
 
 Also, the last two componets can be customized in PyTorch.
 
+---
 
-  
+<div align=middle>暮鼓晨钟，惊醒世间名利客；经声佛号，唤回苦海梦迷人。</div>
+

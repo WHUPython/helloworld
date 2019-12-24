@@ -1,3 +1,9 @@
+# Start PyTorch
+
+-whale
+
+
+
 > This article helps starters begin PyTorch programming as soon as possible. It assumes readers to have basic grasps on back propogation(bp), tensorflow programming and optional static and dynamic graph.
 
 
